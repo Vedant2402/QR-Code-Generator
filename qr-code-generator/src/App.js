@@ -14,10 +14,7 @@ function App() {
   return (
     <div className="app">
       <header className="header">
-        <div className="branding">
-          <img src="/logo192.png" alt="logo" className="logo" />
           <h1>QR Code Generator</h1>
-        </div>
         <button className="toggle-btn" onClick={() => setDarkMode(!darkMode)}>
           {darkMode ? '🌞 Light Mode' : '🌙 Dark Mode'}
         </button>
