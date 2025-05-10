@@ -1,3 +1,5 @@
+## Day 8 of 15-day challenge
+
 # 🔲 Advanced QR Code Generator App
 
 A modern, responsive, and feature-rich QR Code Generator built with **React.js** and powered by **qr-code-styling**. Customize patterns, colors, and download or copy your QR codes instantly.
